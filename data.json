@@ -1,0 +1,17 @@
+{
+  "signup": [
+    {
+      "name": "hello",
+      "email": "example@gmail.com",
+      "role": "admin",
+      "userId": 123
+    }
+  ],
+  "login": [
+    {
+      "email": "example",
+      "password": "password"
+    }
+
+  ]
+}
